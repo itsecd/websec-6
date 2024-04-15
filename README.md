@@ -3,6 +3,12 @@
 
 ### Уязвимости в аутентификации
 
+Повторяем теорию: 
+- https://portswigger.net/web-security/authentication
+- https://portswigger.net/web-security/authentication/password-based
+- https://portswigger.net/web-security/authentication/multi-factor
+- https://portswigger.net/web-security/authentication/other-mechanisms
+
 Как минимум нужно решить лабы с зелеными тегами:
 - Username enumeration via different responses
 - 2FA simple bypass
